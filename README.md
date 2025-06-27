@@ -7,12 +7,8 @@ Bot WhatsApp ringan dan fleksibel berbasis [Baileys](https://github.com/WhiskeyS
 ## ✨ Fitur Utama
 
 - Mode **Pribadi** (self) atau **Publik**
-- Kirim pesan teks, gambar, video, audio, stiker, gif, lokasi, kontak, dsb.
-- Modifikasi & kendali pesan: edit, hapus, arsip, reaksi, pin
 - Fitur grup lengkap untuk admin
-- Atur profil & privasi langsung dari chat
-- UI menu interaktif dengan ASCII banner
-- Dukungan pairing code & session otomatis
+
 
 ---
 
@@ -21,5 +17,5 @@ Bot WhatsApp ringan dan fleksibel berbasis [Baileys](https://github.com/WhiskeyS
 ### 1. Clone Project
 
 ```bash
-git clone https://github.com/naffdev/base-wa-bot.git
+git clone https://github.com/naffdev/bot-wa-group.git
 cd base-wa-bot
